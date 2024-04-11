@@ -1,0 +1,3 @@
+-R/ Tiene 4 clases
+-R/ En la clse zoologico
+-R/ 
