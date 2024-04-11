@@ -1,3 +1,9 @@
 -R/ Tiene 4 clases
 -R/ En la clse zoologico
--R/ 
+-R/ Se crean dos objetos
+-R/ Son 4 atributos: nombre-genero-peso-pareja
+-R/ Pareja
+-R/ No se ejecutaria correctamente el programa
+-R/ Tiene 3 metodos: tenerHijo, imprimirFamilia, familia
+-R/ Inicializa 2 atributos
+-R/ Retorna la respuesta
